@@ -23,8 +23,8 @@
 * * *
 
 ## Commands
-TeleSeed has several commands that are only usable at certain ranks.
-
+UnKnOwNsBoT has several commands that are only usable at certain ranks.
+برگرفته شده از تله سید و پلاگین های دیگر اختصاصی میباشد
 
 ## General Commands
 | Command | Description |
