@@ -487,16 +487,12 @@ For graphic designs.
 
 # Our team!
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[kiarash khatib ](https://github.com/kiavacompany) ([Telegram](https://telegram.me/kiava_ir))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[Xx_TiKTaK_xX](https://github.com/kiavacompany) ([Telegram](https://telegram.me/@Xx_TiKTaK_xX))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
 
 ### Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
+Persian: [@UnKnOwNsBoTCH](https://telegram.me/UnKnOwNsBoTCH)
