@@ -1,9 +1,6 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [UnKnOwNsBoT](https://telegram.me/UnKnOwNsBoTCH)
 
-[![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
-# Features
 
 * **A powerful antispam system with custom sensitivity for each group**
 * **Multiple realms (admin groups)**
@@ -32,29 +29,27 @@ TeleSeed has several commands that are only usable at certain ranks.
 ## General Commands
 | Command | Description |
 |:--------|:------------|
-| [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]teleseed | Returns bot information. |
-
+| [#!/]id | اطلاعات ای دی فرد و گروه |
 
 ## Private Message Commands
 | Command | Description |
 |:--------|:------------|
-| [#!/]help | Returns help text. |
-| [#!/]superhelp | Returns SuperGroup help text. |
-| [#!/]chats | Returns public chats in a message(s). |
-| [#!/]chatlist | Returns public chats in a .txt document. |
-| [#!/]join [GroupID] | Join a public chat by id |
+| [#!/]help | نمایان شدن کمک در خصوصی و گروه |
+| [#!/]superhelp | کمک کردن دستورات در سوپر گروه |
+| [#!/]chats | نشان دادن چت های عضو شده گروه|
+| [#!/]chatlist | لیست چت ها ربات |
+| [#!/]join [GroupID] | وارد شدن به هر گروه عضو ربات با ای دی  |
 
 
 ## Moderator commands 
 
 | Command | Description | Groups? | SuperGroups? |
 |:--------|:------------|:--------|:-------------|
-| [#!/]info | Returns general info about the SuperGroup. | N | Y |
-| [#!/]admins | Returns SuperGroup admins list. | N | Y |
-| [#!/]modlist | Returns Moderator list. | Y | Y |
-| [#!/]owner | Returns group/SuperGroup owner. _Can be used by any user_| Y | Y |
-| [#!/]bots | Lists bots in SuperGroup. | N | Y |
+| [#!/]info | اطلاعات برای سوپر گروه و گروه معمولی | N | Y |
+| [#!/]admins | لیست ادمین ها | N | Y |
+| [#!/]modlist | لیست ناظم های توانایی دستور به ربات | Y | Y |
+| [#!/]owner | نشان دادن سازنده گروه| Y | Y |
+| [#!/]bots | لیست ربات های داخل گروه | N | Y |
 | [#!/]who | Lists all users in group *SuperGroup returns .txt document list. | Y | Y |
 | [#!/]wholist | Lists all users in group in .txt document. | Y | N |
 | [#!/]block | Kicks a user from SuperGroup **Adds user to blocked list**. | N | Y |
