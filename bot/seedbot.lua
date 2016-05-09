@@ -219,6 +219,7 @@ function create_config( )
     "inpm",
     "banhammer",
     "stats",
+    "joke",
     "anti_spam",
     "autolaunch",
     "owners",
