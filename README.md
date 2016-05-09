@@ -465,32 +465,20 @@ Then restart the bot.
 
 Create a realm using the `!createrealm` command.
 
-# Support and development
-
-Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
-
-**Do not contact us** in private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
-
-# Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
-
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
-
-[@Vamptacus](https://telegram.me/Vamptacus)
-
-For graphic designs.
-
-[topkecleon](https://github.com/topkecleon)
-
-[Juan Potato](https://github.com/JuanPotato)
 
 # Our team!
 
 [kiarash khatib ](https://github.com/kiavacompany) ([Telegram](https://telegram.me/kiava_ir))
 
-[Xx_TiKTaK_xX](https://github.com/kiavacompany) ([Telegram](https://telegram.me/@Xx_TiKTaK_xX))
+[Xx_TiKTaK_xX](https://github.com/kiavacompany) ([Telegram](https://telegram.me/Xx_TiKTaK_xX))
 
+[😃Mostafa😃 Puker😐](https://github.com/kiavacompany) ([Telegram](https://telegram.me/Pukeram))
+
+# For Reports!
+
+[kiarash khatib ]([Telegram](https://telegram.me/kiava_ir_bot))
+
+[Xx_TiKTaK_xX]([Telegram](https://telegram.me/TiKTaKPVBoT))
 
 ### Our Telegram channels:
 
