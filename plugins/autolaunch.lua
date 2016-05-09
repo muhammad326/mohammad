@@ -1,4 +1,4 @@
-[Forwarded from FuckSoN🌐HACK🌍]
+
 function run(msg, matches)
 if not is_sudo(msg) then
 return 
