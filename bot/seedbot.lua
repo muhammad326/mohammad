@@ -225,6 +225,7 @@ function create_config( )
     "owners",
     "support",
     "arabic_lock",
+    "cpu",
     "plugins",
     "set",
     "get",
