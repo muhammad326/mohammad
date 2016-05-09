@@ -225,6 +225,7 @@ function create_config( )
     "arabic_lock",
     "set",
     "get",
+    "version",
     "broadcast",
     "invite",
     "all",
