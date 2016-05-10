@@ -231,7 +231,6 @@ function create_config( )
     "get",
     "version",
     "broadcast",
-    "filterworld",
     "invite",
     "all",
     "leave_ban",
