@@ -229,6 +229,7 @@ function create_config( )
     "plugins",
     "set",
     "get",
+    "badword",
     "version",
     "broadcast",
     "invite",
