@@ -53,41 +53,41 @@ UnKnOwNsBoT has several commands that are only usable at certain ranks.
 | [#!/]who | Lists all users in group *SuperGroup returns .txt document list. | Y | Y |
 | [#!/]wholist | Lists all users in group in .txt document. | Y | N |
 | [#!/]block | Kicks a user from SuperGroup **Adds user to blocked list**. | N | Y |
-| [#!/]kick | kicks user from group. | Y | N |
-| [#!/]ban | Bans user from the group/SuperGroup. | Y | Y |
-| [#!/]unban | Unbans user from group/SuperGroup. | Y | Y |
+| [#!/]kick | باریپلی در گروه عادی اخراج کنید | Y | N |
+| [#!/]ban | با ریپلی و ایدی بن کنید | Y | Y |
+| [#!/]unban | دراوردن از لیست اخراجی ها با ایدی | Y | Y |
 | [#!/]id [username<html>&#124;</html>reply] | For userID's: !id @username (**ONLY IN SuperSroups**) or reply `!id` in any group. | Y | Y |
 | [#!/]id from | Returns ID of user a message is forwarded from. | N | Y |
-| [#!/]kickme | Kicks user from SuperGroup / In SuperGroup: **Must be unblocked by owner or use `#join` by pm to return** | Y | Y |
-| [#!/]setowner | Sets group/SuperGroup owner. | Y | Y |
-| [#!/]promote | Promote a group/SuperGroup moderator. | Y | Y |
-| [#!/]demote | Demote a group/SuperGroup moderator. | Y | Y |
-| [#!/]setname | Set group/SuperGroup name. | Y | Y |
-| [#!/]setphoto | Set group/SuperGroup photo. | Y | Y |
-| [#!/]setrules | Set group/SuperGroup rules. | Y | Y |
+| [#!/]kickme | اخراج خود ما: **Must be unblocked by owner or use `#join` by pm to return** | Y | Y |
+| [#!/]setowner | قرار دادن سازنده گروه | Y | Y |
+| [#!/]promote | دسترسی به مدیران به ربات | Y | Y |
+| [#!/]demote | از دسترسی انداختن مدیر از ربات| Y | Y |
+| [#!/]setname | گذاشتن نام برای گروه | Y | Y |
+| [#!/]setphoto | گذاشتن عکس برای گروه. | Y | Y |
+| [#!/]setrules | گذاشتن قوانین برای گروه. | Y | Y |
 | [#!/]setabout |  Sets the about section in chat info(members list) | N | Y |
 | [#!/]set about |  | Y | N |
 | [#!/]save [value] <text> | Sets extra info for group/SuperGroup by value. | Y | Y |
 | [#!/]get [value] | Returns extra info for group/SuperGroup by value. | Y | Y |
-| [#!/]newlink | Generate a new group/SuperGroup link. | Y | Y |
-| [#!/]setlink | Set a new SuperGroup link _If bot is not creator_. | N | Y |
-| [#!/]link | Retrieves the group/SuperGroup link. | Y | Y |
-| [#!/]rules | Retrieves the group/SuperGroup rules. | Y | Y |
-| [#!/]lock [setting](#settings-settings) | Lock group/SuperGroup settings. | Y | Y |
-| [#!/]unlock [setting](#settings-settings) | Unlock group/SuperGroup. | Y | Y |
+| [#!/]newlink | ارسال لینک جدید توسط ربات در صورت سازنده بودن گروه ربات | Y | Y |
+| [#!/]setlink | قرار دادن لینک برای ربات در صورتی که سازنده نیست | N | Y |
+| [#!/]link | نمایش لینک گروه| Y | Y |
+| [#!/]rules | نمایش قوانین گروه | Y | Y |
+| [#!/]lock [setting](#settings-settings) | بستن تنظیمات در گروه | Y | Y |
+| [#!/]unlock [setting](#settings-settings) | باز کردن تنظیمات در گروه | Y | Y |
 | [#!/]mute [mute]#mutes-mutes) | mute group message types. | Y | Y |
 | [#!/]unmute [mute](#mutes-mutes) | unmute group message types. | Y | Y |
-| [#!/]setflood [value](#settings-settings) | Set [value] as flood sensitivity.| Y | Y |
-| [#!/]muteuser [username<html>&#124;</html>id<html>&#124;</html>reply] | Mute and unmute a user in chat. ***If a muted user posts a message, the message is deleted automaically only owners can mute <html>&#124;</html> mods and owners can unmute*** | Y | Y |
-| [#!/]mutelist | Returns list of muted users in group/SuperGroup. | Y | Y |
-| [#!/]muteslist | Returns mutes for group/SuperGroup. | Y | Y |
-| [#!/]settings | Returns a list of group/SuperGroup settings. | Y | Y |
+| [#!/]setflood [value](#settings-settings) | میزان اسپم در گروه| Y | Y |
+| [#!/]muteuser [username<html>&#124;</html>id<html>&#124;</html>reply] | ساکت کردن فرد خاطی با ریپلی و زدن ای دی میتوانید فرد را موت کنید و اگر باز بزنید از موت در میاد | Y | Y |
+| [#!/]mutelist | نمایش لیست خفه شده ها | Y | Y |
+| [#!/]muteslist | نمایش لیست خفه شده ها | Y | Y |
+| [#!/]settings | نمایش تنظیمات گروه | Y | Y |
 | [#!/]stats | Returns simple message statistics in a .txt document. | Y | Y |
 | [#!/]statslist | Returns simple message statistics in a message. | Y | Y |
-| [#!/]banlist | Returns group/SuperGroup banlist. | Y | Y |
+| [#!/]banlist | نمایش بن شده ها | Y | Y |
 | [#!/]clean [rules<html>&#124;</html>about<html>&#124;</html>modlisthtml>&#124;</html>bots<html>&#124;</html>mutelist] | Clears rules, about, modlist, bots, or mutelist | Y | Y |
-| [#!/]del | Deletes a message by reply. | N | Y |
-| [#!/]res [username] | Returns users name and id by username. | Y | Y |
+| [#!/]del | روی متن مورد نظر کلیک کنید بنویسید پاک بشه | N | Y |
+| [#!/]res [username] | گرفتن ای دی فرد کاربر با ریپلی و زدن دستور | Y | Y |
 | [#!/]log | Returns group logs.***In SuperGroups:*** Search for kick reasons using [#RTL<html>&#124;</html>#spam<html>&#124;</html>#lockmember] | Y | Y |
 
 ## Owner commands
