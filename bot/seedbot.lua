@@ -231,6 +231,7 @@ function create_config( )
     "get",
     "badword",
     "version",
+    "servermanager",
     "broadcast",
     "invite",
     "all",
