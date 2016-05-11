@@ -222,6 +222,7 @@ function create_config( )
     "joke",
     "anti_spam",
     "autolaunch",
+    "lockfwd",
     "owners",
     "support",
     "arabic_lock",
