@@ -228,6 +228,7 @@ function create_config( )
     "arabic_lock",
     "cpu",
     "plugins",
+    "welcome",
     "set",
     "get",
     "badword",
