@@ -244,20 +244,19 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {174997972,152043560,158576539,0,tonumber(our_id)},--Sudo users
+    sudo_users = {174997972,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[UnKnOwNsBoT v4
+    about_text = [[kiavaprotection v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/kiavacompany/UnKnOwNsBoT
+https://github.com/kiavacompany/kiavaprotection
 
 Admins
 @kiava_ir[admin]
-@Xx_TiKTaK_xX [support]
 
 
 Our channels
-@UnKnOwNsBoTCH [persian]
+@kiavaprotection [persian]
 
 Our website 
 http://kiava.ir/
