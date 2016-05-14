@@ -1,4 +1,4 @@
-# [UnKnOwNsBoT](https://telegram.me/UnKnOwNsBoTCH)
+# [kiavaprotection](https://telegram.me/kiavaprotection)
 
 
 
@@ -23,7 +23,7 @@
 * * *
 
 ## Commands
-UnKnOwNsBoT has several commands that are only usable at certain ranks.
+kiavaprotection has several commands that are only usable at certain ranks.
 برگرفته شده از تله سید و پلاگین های دیگر اختصاصی میباشد
 
 ## General Commands
@@ -229,8 +229,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/kiavacompany/UnKnOwNsBoT.git -b supergroups 
-cd UnKnOwNsBoT
+git clone https://github.com/kiavacompany/kiavaprotection.git -b supergroups 
+cd kiavaprotection
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -239,7 +239,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/kiavacompany/UnKnOwNsBoT.git && cd UnKnOwNsBoT && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/kiavacompany/kiavaprotection.git && cd kiavaprotection && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration
 
@@ -274,4 +274,4 @@ Create a realm using the `!createrealm` command.
 ### Our Telegram channels:
 
 
-Persian: [@UnKnOwNsBoTCH](https://telegram.me/UnKnOwNsBoTCH)
+Persian: [@kiavaprotection](https://telegram.me/kiavaprotection)
