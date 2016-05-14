@@ -4,7 +4,7 @@ local function run(msg)
 	local joke = res:split(",") 
 	return joke[math.random(#joke)]
 end
---Joke Plugin v2.0 By @kiavabots
+--Joke Plugin v2.0 By @kiavaprotection
 return {
 	description = "1000 Persian Joke",
 	usage = "#جوک : send random joke",
