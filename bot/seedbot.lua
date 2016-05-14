@@ -229,7 +229,6 @@ function create_config( )
     "cpu",
     "plugins",
     "instagram",
-    "welcome",
     "set",
     "get",
     "badword",
