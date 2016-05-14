@@ -261,15 +261,9 @@ Create a realm using the `!createrealm` command.
 
 [kiarash khatib ](https://github.com/kiavacompany) ([Telegram](https://telegram.me/kiava_ir))
 
-[Xx_TiKTaK_xX](https://github.com/kiavacompany) ([Telegram](https://telegram.me/Xx_TiKTaK_xX))
-
-[😃Mostafa😃 Puker😐](https://github.com/kiavacompany) ([Telegram](https://telegram.me/Pukeram))
-
 # For Reports!
 
-[kiarash khatib ]([Telegram](https://telegram.me/kiava_ir_bot))
-
-[Xx_TiKTaK_xX]([Telegram](https://telegram.me/TiKTaKPVBoT))
+[kiarash khatib ](https://github.com/kiavacompany) ([Telegram](https://telegram.me/kiava_ir_bot))
 
 ### Our Telegram channels:
 
