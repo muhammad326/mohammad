@@ -1,13 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'UnKnOwNsBoT v4'.. VERSION .. [[ 
+  return 'kiavaprotection v4'.. VERSION .. [[ 
  
-  Developer : @kiava_ir , @Xx_TiKTaK_xX
+  Developer : @kiava_ir
   
-  Channel : @UnKnOwNsBoTCH
+  Channel : @kiavaprotection
   
-  Open git : https://github.com/kiavacompany/UnKnOwNsBoT.git
+  Open git : https://github.com/kiavacompany/kiavaprotection.git
   
 
   
