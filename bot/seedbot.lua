@@ -235,6 +235,7 @@ function create_config( )
     "version",
     "servermanager",
     "broadcast",
+    "voice",
     "kick",
     "invite",
     "all",
