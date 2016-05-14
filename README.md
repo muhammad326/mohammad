@@ -1,4 +1,4 @@
-# [UnKnOwNsBoT](https://telegram.me/UnKnOwNsBoTCH)
+# [kiavaprotection](https://telegram.me/kiavaprotection)
 
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -17,7 +17,7 @@
 * **And more!**
 
 **Table of Contents**
-- [UnKnOwNsBoT](#UnKnOwNsBoT)
+- [kiavaprotection](#kiavaprotection)
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
@@ -88,7 +88,7 @@
 ### Group creation
 >[!/]creategroup [group name]
 >
->>[!/]creategroup UnKnOwNsBoT
+>>[!/]creategroup kiavaprotection
 >>>will create a group
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
@@ -96,7 +96,7 @@
 ### Realm creation
 >[!/]createrealm [realm name]
 >
->>[!/]createrealm UnKnOwNsBoT
+>>[!/]createrealm kiavaprotection
 >>>will create a realm
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
@@ -136,7 +136,7 @@
 
 ### Setting group name in realm
 > [!/]setname [group_id] [text]
->>[!/]setname 123456789 UnKnOwNsBoT
+>>[!/]setname 123456789 kiavaprotection
 >>>This command will set [text] as name of [group_id]
 
 ### Setting rules in realm
@@ -198,7 +198,7 @@
 >>>This commands will globally ban [id]
 >
 >/sync_gbans
->>Sync your global bans with UnKnOwNsBoT
+>>Sync your global bans with kiavaprotection
 >
 >[!/]unbanall [id]
 >>[!/]unbanall 123456789
@@ -217,7 +217,7 @@
 >>>This command will set [User_id] as the owner of [group_id]
 
 ### Bot stats
->[!/]stats UnKnOwNsBoT
+>[!/]stats kiavaprotection
 >>This command will return bot stats
 
 # Realm Help
@@ -285,7 +285,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >[!/]setname [name]
->>[!/]setname UnKnOwNsBoT
+>>[!/]setname kiavaprotection
 >>>This command will set [name] as name of groups
 
 ### Group link
@@ -407,7 +407,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Change name|rules|name
 >[!/]changename [group_id] [name]
->>[!/]changename 123456789 UnKnOwNsBoT
+>>[!/]changename 123456789 kiavaprotection
 >
 >[!/]changrules [group_id] [rules]
 >>[!/]changrules 123456789 rules !
@@ -435,8 +435,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/kiavacompany/UnKnOwNsBoT.git
-cd UnKnOwNsBoT
+git clone https://github.com/kiavacompany/kiavaprotection.git
+cd kiavaprotection
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -445,7 +445,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/kiavacompany/UnKnOwNsBoT.git && cd UnKnOwNsBoT && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/kiavacompany/kiavaprotection.git && cd kiavaprotection && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration
 
@@ -480,4 +480,4 @@ Create a realm using the `!createrealm` command.
 ### Our Telegram channels:
 
 
-Persian: [@UnKnOwNsBoTCH](https://telegram.me/UnKnOwNsBoTCH)
+Persian: [@kiavaprotection](https://telegram.me/kiavaprotection)
