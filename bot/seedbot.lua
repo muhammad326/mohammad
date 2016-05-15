@@ -237,7 +237,6 @@ function create_config( )
     "servermanager",
     "rmsg",
     "lockreply",
-    "backup",
     "broadcast",
     "voice",
     "kick",
