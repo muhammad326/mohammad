@@ -235,6 +235,7 @@ function create_config( )
     "badword",
     "version",
     "servermanager",
+    "lockreply",
     "broadcast",
     "voice",
     "kick",
