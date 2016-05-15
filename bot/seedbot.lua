@@ -231,6 +231,7 @@ function create_config( )
     "instagram",
     "set",
     "get",
+    "weather",
     "badword",
     "version",
     "servermanager",
