@@ -225,6 +225,7 @@ function create_config( )
     "lock_fwd",
     "owners",
     "support",
+    "inv",
     "arabic_lock",
     "cpu",
     "plugins",
