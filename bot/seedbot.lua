@@ -228,6 +228,7 @@ function create_config( )
     "inv",
     "arabic_lock",
     "cpu",
+    "update",
     "plugins",
     "instagram",
     "set",
