@@ -243,6 +243,7 @@ function create_config( )
     "kick",
     "invite",
     "all",
+    "time",
     "lockfwd",
     "leave_ban",
 	"supergroup",
