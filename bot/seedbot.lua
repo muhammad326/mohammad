@@ -216,7 +216,7 @@ function create_config( )
     "onservice",
     "inrealm",
     "ingroup",
-    "activeuser,
+    "activeuser",
     "inpm",
     "banhammer",
     "stats",
