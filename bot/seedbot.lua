@@ -224,6 +224,7 @@ function create_config( )
     "autolaunch",
     "lock_fwd",
     "owners",
+    "lock_tag",
     "support",
     "inv",
     "arabic_lock",
